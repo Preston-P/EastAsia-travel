@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Preston-P/EastAsia-travel/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Preston-P/EastAsia-travel/static/js/main.cf6f61f8.chunk.js",
+    "main.js.map": "/Preston-P/EastAsia-travel/static/js/main.cf6f61f8.chunk.js.map",
+    "runtime-main.js": "/Preston-P/EastAsia-travel/static/js/runtime-main.d9fb3c78.js",
+    "runtime-main.js.map": "/Preston-P/EastAsia-travel/static/js/runtime-main.d9fb3c78.js.map",
+    "static/js/2.4287fbd6.chunk.js": "/Preston-P/EastAsia-travel/static/js/2.4287fbd6.chunk.js",
+    "static/js/2.4287fbd6.chunk.js.map": "/Preston-P/EastAsia-travel/static/js/2.4287fbd6.chunk.js.map",
+    "index.html": "/Preston-P/EastAsia-travel/index.html",
+    "precache-manifest.9672b0d318da4cc817685c25aa2b908a.js": "/Preston-P/EastAsia-travel/precache-manifest.9672b0d318da4cc817685c25aa2b908a.js",
+    "service-worker.js": "/Preston-P/EastAsia-travel/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Preston-P/EastAsia-travel/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4287fbd6.chunk.js.LICENSE": "/Preston-P/EastAsia-travel/static/js/2.4287fbd6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9fb3c78.js",
+    "static/js/2.4287fbd6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cf6f61f8.chunk.js"
+  ]
+}
